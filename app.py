@@ -1107,7 +1107,7 @@ def api_set_startup(server_id):
 
 if __name__ == '__main__':
     print("\n" + "=" * 50)
-    print("🚀 JUBAYER HOSTING - FINAL")
+    print("🚀 Astro Host")
     print("=" * 50)
     print("📍 Landing: http://localhost:5000")
     print("📍 Admin: http://localhost:5000/login")
