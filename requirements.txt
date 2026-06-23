@@ -2,3 +2,5 @@ Flask
 Flask-Session
 werkzeug
 gunicorn==23.0.0
+psutil
+requests
